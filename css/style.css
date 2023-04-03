@@ -50,5 +50,16 @@ h1 {
     margin-bottom: 25px;
 }
 
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.evidenziato {
+    background-color: yellow;
+}
+
 
 
