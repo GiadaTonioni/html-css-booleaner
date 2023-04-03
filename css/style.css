@@ -21,7 +21,7 @@ h1 {
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
     font-size: 50px;
-    padding-right: 200px;
+    padding-right: 100px;
     margin-top: 25px;
 }
 /*fine proprietà titolo*/
@@ -40,7 +40,15 @@ h1 {
 
 #testo-grigio-piccolo {
     font-size: 15px;
+}
+/*fine proprietà sottotitolo*/
+/*FINE HEADER*/
+
+/*CLASSI MAIN*/
+.posizione-tim {
+    margin-top: 25px;
     margin-bottom: 25px;
 }
+
 
 
