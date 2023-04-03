@@ -51,14 +51,21 @@ h1 {
 }
 
 p {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
-    color: black;
     margin-bottom: 20px;
 }
 
 .evidenziato {
     background-color: yellow;
+}
+
+ul {
+    margin-bottom: 20px;
+}
+
+.testo {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
 }
 
 
