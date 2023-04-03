@@ -73,15 +73,17 @@ ul {
 thead {
     background-color: rgb(49, 154, 214) ;
     color: white;
+    width: 100%;
 }
 
 .tab-dx {
 text-align: left;
+width: 50%;
 }
 
 .tab-sx {
     text-align: left;
-    padding-right: 200px;
+    width: 20%;
 }
 
 table {
@@ -95,12 +97,27 @@ table {
 .pari {
     background-color: lightblue;
 }
+/* FINE CLASSI MAIN */
 
-.testo.bianco {
+/*CLASSI FOOTER*/
+.immagine1 {
+    background-image: url('../img/monitor.jpg');
+    background-repeat: no-repeat;
     color: white;
     font-family: 'Times New Roman', Times, serif;
-    font-weight: 100;
-    background-image: url('../img/monitor.jpg');
+    width: 300px;
+    height: 200px;
+    margin-top: 15px;
 }
 
+.immagine2 {
+    background-image: url('../img/graph.jpg');
+    background-repeat: no-repeat;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    width: 300px;
+    height: 200px;
+    margin-top: 15px;
+}
+/*FINE CLASSI FOOTER*/
 
