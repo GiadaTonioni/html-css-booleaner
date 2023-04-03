@@ -51,6 +51,7 @@ h1 {
 }
 
 p {
+    margin-top: 20px;
     margin-bottom: 20px;
 }
 
@@ -76,17 +77,30 @@ thead {
 
 .tab-dx {
 text-align: left;
-padding-right: 25px;
 }
 
 .tab-sx {
     text-align: left;
-    margin-right: 50px;
+    padding-right: 200px;
 }
 
 table {
     border-collapse: collapse;
 }
 
+.dispari {
+    background-color: cyan;
+}
+
+.pari {
+    background-color: lightblue;
+}
+
+.testo.bianco {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    background-image: url('../img/monitor.jpg');
+}
 
 
