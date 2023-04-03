@@ -60,12 +60,32 @@ p {
 
 ul {
     margin-bottom: 20px;
+    padding-left: 40px;
 }
 
 .testo {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
+    font-size: 18px;
     color: black;
+}
+
+thead {
+    background-color: rgb(49, 154, 214) ;
+    color: white;
+}
+
+.tab-dx {
+text-align: left;
+padding-right: 25px;
+}
+
+.tab-sx {
+    text-align: left;
+    margin-right: 50px;
+}
+
+table {
+    border-collapse: collapse;
 }
 
 
