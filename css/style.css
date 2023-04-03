@@ -6,7 +6,7 @@
 /*CLASSI HEADER*/
 /*proprietà sfondo header*/
 .sfondo {
-    background-color: rgb(41, 140, 197) ;
+    background-color: rgb(49, 154, 214) ;
     padding-top: 60px;
     padding-bottom: 25px;
     background-image: url('../img/pattern.png');
@@ -25,5 +25,22 @@ h1 {
     margin-top: 25px;
 }
 /*fine proprietà titolo*/
+/*proprietà sottotitolo*/
+.testo-grigio {
+    color: grey;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.testo-blu {
+    color: rgb(49, 154, 214) ;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+#testo-grigio-piccolo {
+    font-size: 15px;
+    margin-bottom: 25px;
+}
 
 
